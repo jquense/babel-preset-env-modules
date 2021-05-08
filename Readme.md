@@ -22,7 +22,6 @@ Below are options with their defaults:
         loose: true,
         development: false,
         targets: { esmodules: true },
-        loose: true,
         bugfixes: true,
         modules: 'commonjs',
         debug: false,
